@@ -1,1 +1,1 @@
-"use strick";
+'use strick';
